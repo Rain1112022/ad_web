@@ -1,5 +1,3 @@
-# RK 平台适配
-
 # 安装依赖
 
 `npm install`
